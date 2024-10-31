@@ -3,6 +3,7 @@
 *.pyc
 **/__pycache__/
 androidtv.egg-info
+venv/
 
 # Build / development files
 .eggs/
